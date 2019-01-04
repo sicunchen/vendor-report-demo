@@ -1,0 +1,222 @@
+[
+  {
+    "statecode": 72,
+    "statename": "Puerto Rico"
+  },
+  {
+    "statecode": 11,
+    "statename": "District of Columbia"
+  },
+  {
+    "statecode": 10,
+    "statename": "Delaware"
+  },
+  {
+    "statecode": 18,
+    "statename": "Indiana"
+  },
+  {
+    "statecode": 16,
+    "statename": "Idaho"
+  },
+  {
+    "statecode": 22,
+    "statename": "Louisiana"
+  },
+  {
+    "statecode": 13,
+    "statename": "Georgia"
+  },
+  {
+    "statecode": 27,
+    "statename": "Minnesota"
+  },
+  {
+    "statecode": 49,
+    "statename": "Utah"
+  },
+  {
+    "statecode": 19,
+    "statename": "Iowa"
+  },
+  {
+    "statecode": 40,
+    "statename": "Oklahoma"
+  },
+  {
+    "statecode": 66,
+    "statename": "Guam"
+  },
+  {
+    "statecode": 38,
+    "statename": "North Dakota"
+  },
+  {
+    "statecode": 44,
+    "statename": "Rhode Island"
+  },
+  {
+    "statecode": 50,
+    "statename": "Vermont"
+  },
+  {
+    "statecode": 34,
+    "statename": "New Jersey"
+  },
+  {
+    "statecode": 1,
+    "statename": "Alabama"
+  },
+  {
+    "statecode": 31,
+    "statename": "Nebraska"
+  },
+  {
+    "statecode": 21,
+    "statename": "Kentucky"
+  },
+  {
+    "statecode": 4,
+    "statename": "Arizona"
+  },
+  {
+    "statecode": 32,
+    "statename": "Nevada"
+  },
+  {
+    "statecode": 33,
+    "statename": "New Hampshire"
+  },
+  {
+    "statecode": 35,
+    "statename": "New Mexico"
+  },
+  {
+    "statecode": 28,
+    "statename": "Mississippi"
+  },
+  {
+    "statecode": 25,
+    "statename": "Massachusetts"
+  },
+  {
+    "statecode": 17,
+    "statename": "Illinois"
+  },
+  {
+    "statecode": 60,
+    "statename": "American Samoa"
+  },
+  {
+    "statecode": 47,
+    "statename": "Tennessee"
+  },
+  {
+    "statecode": 30,
+    "statename": "Montana"
+  },
+  {
+    "statecode": 42,
+    "statename": "Pennsylvania"
+  },
+  {
+    "statecode": 29,
+    "statename": "Missouri"
+  },
+  {
+    "statecode": 24,
+    "statename": "Maryland"
+  },
+  {
+    "statecode": 2,
+    "statename": "Alaska"
+  },
+  {
+    "statecode": 41,
+    "statename": "Oregon"
+  },
+  {
+    "statecode": 23,
+    "statename": "Maine"
+  },
+  {
+    "statecode": 9,
+    "statename": "Connecticut"
+  },
+  {
+    "statecode": 12,
+    "statename": "Florida"
+  },
+  {
+    "statecode": 46,
+    "statename": "South Dakota"
+  },
+  {
+    "statecode": 39,
+    "statename": "Ohio"
+  },
+  {
+    "statecode": 15,
+    "statename": "Hawaii"
+  },
+  {
+    "statecode": 36,
+    "statename": "New York"
+  },
+  {
+    "statecode": 55,
+    "statename": "Wisconsin"
+  },
+  {
+    "statecode": 78,
+    "statename": "Virgin Islands of the U.S."
+  },
+  {
+    "statecode": 48,
+    "statename": "Texas"
+  },
+  {
+    "statecode": 6,
+    "statename": "California"
+  },
+  {
+    "statecode": 26,
+    "statename": "Michigan"
+  },
+  {
+    "statecode": 37,
+    "statename": "North Carolina"
+  },
+  {
+    "statecode": 8,
+    "statename": "Colorado"
+  },
+  {
+    "statecode": 45,
+    "statename": "South Carolina"
+  },
+  {
+    "statecode": 5,
+    "statename": "Arkansas"
+  },
+  {
+    "statecode": 54,
+    "statename": "West Virginia"
+  },
+  {
+    "statecode": 51,
+    "statename": "Virginia"
+  },
+  {
+    "statecode": 56,
+    "statename": "Wyoming"
+  },
+  {
+    "statecode": 53,
+    "statename": "Washington"
+  },
+  {
+    "statecode": 20,
+    "statename": "Kansas"
+  }
+]

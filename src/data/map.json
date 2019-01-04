@@ -1,0 +1,3495 @@
+[
+  {
+    "n_s_c": "County",
+    "statecode": "01",
+    "fipscode": "01097",
+    "county_name": "Mobile County, AL",
+    "combined_total_pmt_amt": 1500
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "02",
+    "fipscode": "02090",
+    "county_name": "Fairbanks North Star Borough, AK",
+    "combined_total_pmt_amt": 150
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "05",
+    "fipscode": "05119",
+    "county_name": "Pulaski County, AR",
+    "combined_total_pmt_amt": 936865.57
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06023",
+    "county_name": "Humboldt County, CA",
+    "combined_total_pmt_amt": 2015
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06037",
+    "county_name": "Los Angeles County, CA",
+    "combined_total_pmt_amt": 19955745.92
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06065",
+    "county_name": "Riverside County, CA",
+    "combined_total_pmt_amt": 988518.84
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06071",
+    "county_name": "San Bernardino County, CA",
+    "combined_total_pmt_amt": 618208.33
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06081",
+    "county_name": "San Mateo County, CA",
+    "combined_total_pmt_amt": 3414610.74
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06089",
+    "county_name": "Shasta County, CA",
+    "combined_total_pmt_amt": 10411.34
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "08",
+    "fipscode": "08031",
+    "county_name": "Denver County, CO",
+    "combined_total_pmt_amt": 2243843.85
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "08",
+    "fipscode": "08041",
+    "county_name": "El Paso County, CO",
+    "combined_total_pmt_amt": 398069.2
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "08",
+    "fipscode": "08059",
+    "county_name": "Jefferson County, CO",
+    "combined_total_pmt_amt": 693725.18
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "08",
+    "fipscode": "08069",
+    "county_name": "Larimer County, CO",
+    "combined_total_pmt_amt": 20832.09
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "08",
+    "fipscode": "08123",
+    "county_name": "Weld County, CO",
+    "combined_total_pmt_amt": 11788.75
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 11,
+    "fipscode": 11001,
+    "county_name": "District of Columbia, DC",
+    "combined_total_pmt_amt": 11463702.88
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 12,
+    "fipscode": 12009,
+    "county_name": "Brevard County, FL",
+    "combined_total_pmt_amt": 11238
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 12,
+    "fipscode": 12033,
+    "county_name": "Escambia County, FL",
+    "combined_total_pmt_amt": 248206.61
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 12,
+    "fipscode": 12057,
+    "county_name": "Hillsborough County, FL",
+    "combined_total_pmt_amt": 151907.24
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 12,
+    "fipscode": 12073,
+    "county_name": "Leon County, FL",
+    "combined_total_pmt_amt": 728712.24
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 12,
+    "fipscode": 12099,
+    "county_name": "Palm Beach County, FL",
+    "combined_total_pmt_amt": 1116325.63
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 12,
+    "fipscode": 12115,
+    "county_name": "Sarasota County, FL",
+    "combined_total_pmt_amt": 249263.61
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 13,
+    "fipscode": 13085,
+    "county_name": "Dawson County, GA",
+    "combined_total_pmt_amt": 10
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 16,
+    "fipscode": 16055,
+    "county_name": "Kootenai County, ID",
+    "combined_total_pmt_amt": 8058.63
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 17,
+    "fipscode": 17037,
+    "county_name": "DeKalb County, IL",
+    "combined_total_pmt_amt": 578.88
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 18,
+    "fipscode": 18039,
+    "county_name": "Elkhart County, IN",
+    "combined_total_pmt_amt": 50827.5
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 18,
+    "fipscode": 18163,
+    "county_name": "Vanderburgh County, IN",
+    "combined_total_pmt_amt": 11087.07
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 18,
+    "fipscode": 18167,
+    "county_name": "Vigo County, IN",
+    "combined_total_pmt_amt": 70407.8
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 19,
+    "fipscode": 19113,
+    "county_name": "Linn County, IA",
+    "combined_total_pmt_amt": 330.96
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 20,
+    "fipscode": 20173,
+    "county_name": "Sedgwick County, KS",
+    "combined_total_pmt_amt": 98661.98
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 21,
+    "fipscode": 21111,
+    "county_name": "Jefferson County, KY",
+    "combined_total_pmt_amt": 1985754.25
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 24,
+    "fipscode": 24005,
+    "county_name": "Baltimore County, MD",
+    "combined_total_pmt_amt": 20823544.28
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 24,
+    "fipscode": 24027,
+    "county_name": "Howard County, MD",
+    "combined_total_pmt_amt": 171692.55
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 24,
+    "fipscode": 24035,
+    "county_name": "Queen Anne's County, MD",
+    "combined_total_pmt_amt": 255.5
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 24,
+    "fipscode": 24510,
+    "county_name": "Baltimore city, MD",
+    "combined_total_pmt_amt": 2087783.61
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26027,
+    "county_name": "Cass County, MI",
+    "combined_total_pmt_amt": 536.59
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26037,
+    "county_name": "Clinton County, MI",
+    "combined_total_pmt_amt": 2641
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26047,
+    "county_name": "Emmet County, MI",
+    "combined_total_pmt_amt": 16900.05
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26069,
+    "county_name": "Iosco County, MI",
+    "combined_total_pmt_amt": 240.1
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26077,
+    "county_name": "Kalamazoo County, MI",
+    "combined_total_pmt_amt": 305249.26
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26091,
+    "county_name": "Lenawee County, MI",
+    "combined_total_pmt_amt": 213606.27
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26103,
+    "county_name": "Marquette County, MI",
+    "combined_total_pmt_amt": 3140.72
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26107,
+    "county_name": "Mecosta County, MI",
+    "combined_total_pmt_amt": 33100
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26111,
+    "county_name": "Midland County, MI",
+    "combined_total_pmt_amt": 53370.6
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26125,
+    "county_name": "Oakland County, MI",
+    "combined_total_pmt_amt": 130347843.52
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26127,
+    "county_name": "Oceana County, MI",
+    "combined_total_pmt_amt": 63282.64
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26147,
+    "county_name": "St. Clair County, MI",
+    "combined_total_pmt_amt": 42356.93
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26159,
+    "county_name": "Van Buren County, MI",
+    "combined_total_pmt_amt": 119780.53
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26161,
+    "county_name": "Washtenaw County, MI",
+    "combined_total_pmt_amt": 175633076.59
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 27,
+    "fipscode": 27019,
+    "county_name": "Carver County, MN",
+    "combined_total_pmt_amt": 9543.68
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 27,
+    "fipscode": 27025,
+    "county_name": "Chisago County, MN",
+    "combined_total_pmt_amt": 2500
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 27,
+    "fipscode": 27037,
+    "county_name": "Dakota County, MN",
+    "combined_total_pmt_amt": -1449.69
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 27,
+    "fipscode": 27123,
+    "county_name": "Ramsey County, MN",
+    "combined_total_pmt_amt": 12813.28
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 29,
+    "fipscode": 29189,
+    "county_name": "St. Louis County, MO",
+    "combined_total_pmt_amt": 770217.95
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 29,
+    "fipscode": 29510,
+    "county_name": "St. Louis city, MO",
+    "combined_total_pmt_amt": 5054309.88
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 30,
+    "fipscode": 30031,
+    "county_name": "Gallatin County, MT",
+    "combined_total_pmt_amt": 153292.32
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 31,
+    "fipscode": 31053,
+    "county_name": "Dodge County, NE",
+    "combined_total_pmt_amt": 49
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 32,
+    "fipscode": 32003,
+    "county_name": "Clark County, NV",
+    "combined_total_pmt_amt": 44150.44
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 32,
+    "fipscode": 32510,
+    "county_name": "Carson City, NV",
+    "combined_total_pmt_amt": 7804
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 35,
+    "fipscode": 35049,
+    "county_name": "Santa Fe County, NM",
+    "combined_total_pmt_amt": 121732
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 36,
+    "fipscode": 36011,
+    "county_name": "Cayuga County, NY",
+    "combined_total_pmt_amt": 529.8
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 36,
+    "fipscode": 36071,
+    "county_name": "Orange County, NY",
+    "combined_total_pmt_amt": 167132.8
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 36,
+    "fipscode": 36081,
+    "county_name": "Queens County, NY",
+    "combined_total_pmt_amt": 9337.39
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 36,
+    "fipscode": 36109,
+    "county_name": "Tompkins County, NY",
+    "combined_total_pmt_amt": 4912
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 36,
+    "fipscode": 36113,
+    "county_name": "Warren County, NY",
+    "combined_total_pmt_amt": 1038
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 36,
+    "fipscode": 36119,
+    "county_name": "Westchester County, NY",
+    "combined_total_pmt_amt": 537120.86
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 37,
+    "fipscode": 37019,
+    "county_name": "Brunswick County, NC",
+    "combined_total_pmt_amt": 1380
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 37,
+    "fipscode": 37021,
+    "county_name": "Buncombe County, NC",
+    "combined_total_pmt_amt": 411751.06
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 37,
+    "fipscode": 37067,
+    "county_name": "Forsyth County, NC",
+    "combined_total_pmt_amt": 592064.54
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 37,
+    "fipscode": 37081,
+    "county_name": "Guilford County, NC",
+    "combined_total_pmt_amt": 34901.51
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 37,
+    "fipscode": 37119,
+    "county_name": "Mecklenburg County, NC",
+    "combined_total_pmt_amt": 2320374.09
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 37,
+    "fipscode": 37135,
+    "county_name": "Orange County, NC",
+    "combined_total_pmt_amt": 1922927.05
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39017,
+    "county_name": "Butler County, OH",
+    "combined_total_pmt_amt": 23474.57
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39025,
+    "county_name": "Clermont County, OH",
+    "combined_total_pmt_amt": 4265.8
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39035,
+    "county_name": "Cuyahoga County, OH",
+    "combined_total_pmt_amt": 3799206.1
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39089,
+    "county_name": "Licking County, OH",
+    "combined_total_pmt_amt": 13183.5
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39093,
+    "county_name": "Lorain County, OH",
+    "combined_total_pmt_amt": 25024.93
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39113,
+    "county_name": "Montgomery County, OH",
+    "combined_total_pmt_amt": 796575.94
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39173,
+    "county_name": "Wood County, OH",
+    "combined_total_pmt_amt": 1018049.62
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 40,
+    "fipscode": 40147,
+    "county_name": "Washington County, OK",
+    "combined_total_pmt_amt": 792
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 41,
+    "fipscode": 41051,
+    "county_name": "Multnomah County, OR",
+    "combined_total_pmt_amt": 2283751.22
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 41,
+    "fipscode": 41065,
+    "county_name": "Wasco County, OR",
+    "combined_total_pmt_amt": 4350
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42045,
+    "county_name": "Delaware County, PA",
+    "combined_total_pmt_amt": 147903.7
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42069,
+    "county_name": "Lackawanna County, PA",
+    "combined_total_pmt_amt": 16981
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42091,
+    "county_name": "Montgomery County, PA",
+    "combined_total_pmt_amt": 1817984.48
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 45,
+    "fipscode": 45019,
+    "county_name": "Charleston County, SC",
+    "combined_total_pmt_amt": 1354453.99
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 46,
+    "fipscode": 46099,
+    "county_name": "Minnehaha County, SD",
+    "combined_total_pmt_amt": 5993.11
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 47,
+    "fipscode": 47105,
+    "county_name": "Loudon County, TN",
+    "combined_total_pmt_amt": 697.07
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 47,
+    "fipscode": 47157,
+    "county_name": "Shelby County, TN",
+    "combined_total_pmt_amt": 688573.46
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 48,
+    "fipscode": 48085,
+    "county_name": "Collin County, TX",
+    "combined_total_pmt_amt": 88961.01
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 48,
+    "fipscode": 48121,
+    "county_name": "Denton County, TX",
+    "combined_total_pmt_amt": 94663.75
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 48,
+    "fipscode": 48309,
+    "county_name": "McLennan County, TX",
+    "combined_total_pmt_amt": 667
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 48,
+    "fipscode": 48339,
+    "county_name": "Montgomery County, TX",
+    "combined_total_pmt_amt": 328342.26
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 48,
+    "fipscode": 48355,
+    "county_name": "Nueces County, TX",
+    "combined_total_pmt_amt": 9885
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 48,
+    "fipscode": 48423,
+    "county_name": "Smith County, TX",
+    "combined_total_pmt_amt": 8475
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 49,
+    "fipscode": 49011,
+    "county_name": "Davis County, UT",
+    "combined_total_pmt_amt": 627.43
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 51,
+    "fipscode": 51003,
+    "county_name": "Albemarle County, VA",
+    "combined_total_pmt_amt": 3750
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 51,
+    "fipscode": 51059,
+    "county_name": "Fairfax County, VA",
+    "combined_total_pmt_amt": 1206780.17
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 51,
+    "fipscode": 51087,
+    "county_name": "Henrico County, VA",
+    "combined_total_pmt_amt": 90940.27
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 51,
+    "fipscode": 51161,
+    "county_name": "Roanoke County, VA",
+    "combined_total_pmt_amt": 203969.5
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 51,
+    "fipscode": 51540,
+    "county_name": "Charlottesville city, VA",
+    "combined_total_pmt_amt": 1059692.86
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 51,
+    "fipscode": 51550,
+    "county_name": "Chesapeake city, VA",
+    "combined_total_pmt_amt": 0
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 51,
+    "fipscode": 51600,
+    "county_name": "Fairfax city, VA",
+    "combined_total_pmt_amt": 36091.75
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 51,
+    "fipscode": 51610,
+    "county_name": "Falls Church city, VA",
+    "combined_total_pmt_amt": 122.9
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 53,
+    "fipscode": 53035,
+    "county_name": "Kitsap County, WA",
+    "combined_total_pmt_amt": 264462
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 53,
+    "fipscode": 53061,
+    "county_name": "Snohomish County, WA",
+    "combined_total_pmt_amt": 13685.6
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 53,
+    "fipscode": 53063,
+    "county_name": "Spokane County, WA",
+    "combined_total_pmt_amt": 251096.89
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 53,
+    "fipscode": 53067,
+    "county_name": "Thurston County, WA",
+    "combined_total_pmt_amt": 10000
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 55,
+    "fipscode": 55101,
+    "county_name": "Racine County, WI",
+    "combined_total_pmt_amt": 16486.74
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 55,
+    "fipscode": 55133,
+    "county_name": "Waukesha County, WI",
+    "combined_total_pmt_amt": 48789.51
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 55,
+    "fipscode": 55141,
+    "county_name": "Wood County, WI",
+    "combined_total_pmt_amt": 6400
+  },
+  {
+    "n_s_c": "State",
+    "statecode": "06",
+    "fipscode": "06000",
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 107905294.26
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 10,
+    "fipscode": 10000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 3198217.19
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 13,
+    "fipscode": 13000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 16252358.88
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 22,
+    "fipscode": 22000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 584956.3
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 24,
+    "fipscode": 24000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 45272992.27
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 40,
+    "fipscode": 40000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 1492248.77
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "01",
+    "fipscode": "01073",
+    "county_name": "Jefferson County, AL",
+    "combined_total_pmt_amt": 252161.05
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "01",
+    "fipscode": "01089",
+    "county_name": "Madison County, AL",
+    "combined_total_pmt_amt": 1436564.65
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "04",
+    "fipscode": "04013",
+    "county_name": "Maricopa County, AZ",
+    "combined_total_pmt_amt": 1618907.54
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "04",
+    "fipscode": "04025",
+    "county_name": "Yavapai County, AZ",
+    "combined_total_pmt_amt": 131.5
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "05",
+    "fipscode": "05143",
+    "county_name": "Washington County, AR",
+    "combined_total_pmt_amt": 262662.91
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06029",
+    "county_name": "Kern County, CA",
+    "combined_total_pmt_amt": 2316.89
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06041",
+    "county_name": "Marin County, CA",
+    "combined_total_pmt_amt": 33618.32
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06053",
+    "county_name": "Monterey County, CA",
+    "combined_total_pmt_amt": 35861.69
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06075",
+    "county_name": "San Francisco County, CA",
+    "combined_total_pmt_amt": 3343738.84
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06099",
+    "county_name": "Stanislaus County, CA",
+    "combined_total_pmt_amt": 23776.61
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "08",
+    "fipscode": "08001",
+    "county_name": "Adams County, CO",
+    "combined_total_pmt_amt": 50670.16
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "08",
+    "fipscode": "08119",
+    "county_name": "Teller County, CO",
+    "combined_total_pmt_amt": 992.92
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 10,
+    "fipscode": 10005,
+    "county_name": "Sussex County, DE",
+    "combined_total_pmt_amt": 16957.23
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 12,
+    "fipscode": 12031,
+    "county_name": "Duval County, FL",
+    "combined_total_pmt_amt": 148973.98
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 12,
+    "fipscode": 12081,
+    "county_name": "Manatee County, FL",
+    "combined_total_pmt_amt": 4329.28
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 12,
+    "fipscode": 12083,
+    "county_name": "Marion County, FL",
+    "combined_total_pmt_amt": 5048.05
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 12,
+    "fipscode": 12095,
+    "county_name": "Orange County, FL",
+    "combined_total_pmt_amt": 332462.08
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 12,
+    "fipscode": 12101,
+    "county_name": "Pasco County, FL",
+    "combined_total_pmt_amt": 3000
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 12,
+    "fipscode": 12105,
+    "county_name": "Polk County, FL",
+    "combined_total_pmt_amt": 5881.13
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 12,
+    "fipscode": 12111,
+    "county_name": "St. Lucie County, FL",
+    "combined_total_pmt_amt": 767.73
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 12,
+    "fipscode": 12117,
+    "county_name": "Seminole County, FL",
+    "combined_total_pmt_amt": 161833.56
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 13,
+    "fipscode": 13089,
+    "county_name": "DeKalb County, GA",
+    "combined_total_pmt_amt": 3608054.22
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 13,
+    "fipscode": 13117,
+    "county_name": "Forsyth County, GA",
+    "combined_total_pmt_amt": 5426.24
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 13,
+    "fipscode": 13121,
+    "county_name": "Fulton County, GA",
+    "combined_total_pmt_amt": 11659135.9
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 13,
+    "fipscode": 13219,
+    "county_name": "Oconee County, GA",
+    "combined_total_pmt_amt": 140090
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 17,
+    "fipscode": 17019,
+    "county_name": "Champaign County, IL",
+    "combined_total_pmt_amt": 75387.13
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 17,
+    "fipscode": 17043,
+    "county_name": "DuPage County, IL",
+    "combined_total_pmt_amt": 1524956.82
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 17,
+    "fipscode": 17097,
+    "county_name": "Lake County, IL",
+    "combined_total_pmt_amt": 4946044.17
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 17,
+    "fipscode": 17099,
+    "county_name": "LaSalle County, IL",
+    "combined_total_pmt_amt": 11
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 17,
+    "fipscode": 17167,
+    "county_name": "Sangamon County, IL",
+    "combined_total_pmt_amt": 18508.15
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 17,
+    "fipscode": 17197,
+    "county_name": "Will County, IL",
+    "combined_total_pmt_amt": 43256.36
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 17,
+    "fipscode": 17201,
+    "county_name": "Winnebago County, IL",
+    "combined_total_pmt_amt": 155299.61
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 18,
+    "fipscode": 18087,
+    "county_name": "LaGrange County, IN",
+    "combined_total_pmt_amt": 16000
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 18,
+    "fipscode": 18089,
+    "county_name": "Lake County, IN",
+    "combined_total_pmt_amt": 200.11
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 18,
+    "fipscode": 18095,
+    "county_name": "Madison County, IN",
+    "combined_total_pmt_amt": 0
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 19,
+    "fipscode": 19103,
+    "county_name": "Johnson County, IA",
+    "combined_total_pmt_amt": 2706331.75
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 19,
+    "fipscode": 19125,
+    "county_name": "Marion County, IA",
+    "combined_total_pmt_amt": 12142.08
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 19,
+    "fipscode": 19153,
+    "county_name": "Polk County, IA",
+    "combined_total_pmt_amt": 6625
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 19,
+    "fipscode": 19163,
+    "county_name": "Scott County, IA",
+    "combined_total_pmt_amt": 58458.81
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 21,
+    "fipscode": 21073,
+    "county_name": "Franklin County, KY",
+    "combined_total_pmt_amt": 1675.29
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 21,
+    "fipscode": 21093,
+    "county_name": "Hardin County, KY",
+    "combined_total_pmt_amt": 4680
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 22,
+    "fipscode": 22051,
+    "county_name": "Jefferson Parish, LA",
+    "combined_total_pmt_amt": 1311
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 22,
+    "fipscode": 22071,
+    "county_name": "Orleans Parish, LA",
+    "combined_total_pmt_amt": 452430.89
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 22,
+    "fipscode": 22103,
+    "county_name": "St. Tammany Parish, LA",
+    "combined_total_pmt_amt": 25163.26
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 24,
+    "fipscode": 24003,
+    "county_name": "Anne Arundel County, MD",
+    "combined_total_pmt_amt": 302353.52
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 24,
+    "fipscode": 24013,
+    "county_name": "Carroll County, MD",
+    "combined_total_pmt_amt": 10243.18
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 24,
+    "fipscode": 24031,
+    "county_name": "Montgomery County, MD",
+    "combined_total_pmt_amt": 16210396.33
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26009,
+    "county_name": "Antrim County, MI",
+    "combined_total_pmt_amt": 61345.97
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26021,
+    "county_name": "Berrien County, MI",
+    "combined_total_pmt_amt": 106959.45
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26031,
+    "county_name": "Cheboygan County, MI",
+    "combined_total_pmt_amt": 330
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26033,
+    "county_name": "Chippewa County, MI",
+    "combined_total_pmt_amt": 8188.98
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26061,
+    "county_name": "Houghton County, MI",
+    "combined_total_pmt_amt": 44042.2
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26065,
+    "county_name": "Ingham County, MI",
+    "combined_total_pmt_amt": 13101405.65
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26081,
+    "county_name": "Kent County, MI",
+    "combined_total_pmt_amt": 1311369.97
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26087,
+    "county_name": "Lapeer County, MI",
+    "combined_total_pmt_amt": 88625.71
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26097,
+    "county_name": "Mackinac County, MI",
+    "combined_total_pmt_amt": 34622.32
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 27,
+    "fipscode": 27053,
+    "county_name": "Hennepin County, MN",
+    "combined_total_pmt_amt": 10081007.88
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 27,
+    "fipscode": 27169,
+    "county_name": "Winona County, MN",
+    "combined_total_pmt_amt": 762.5
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 28,
+    "fipscode": 28011,
+    "county_name": "Bolivar County, MS",
+    "combined_total_pmt_amt": 0
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 28,
+    "fipscode": 28035,
+    "county_name": "Forrest County, MS",
+    "combined_total_pmt_amt": 100
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 28,
+    "fipscode": 28059,
+    "county_name": "Jackson County, MS",
+    "combined_total_pmt_amt": 6100
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 29,
+    "fipscode": 29019,
+    "county_name": "Boone County, MO",
+    "combined_total_pmt_amt": 3362966.41
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 29,
+    "fipscode": 29051,
+    "county_name": "Cole County, MO",
+    "combined_total_pmt_amt": 1500
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 29,
+    "fipscode": 29115,
+    "county_name": "Linn County, MO",
+    "combined_total_pmt_amt": 2500
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 31,
+    "fipscode": 31055,
+    "county_name": "Douglas County, NE",
+    "combined_total_pmt_amt": 144488.23
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 35,
+    "fipscode": 35001,
+    "county_name": "Bernalillo County, NM",
+    "combined_total_pmt_amt": 444333.73
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 35,
+    "fipscode": 35028,
+    "county_name": "Los Alamos County, NM",
+    "combined_total_pmt_amt": 507159.03
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 36,
+    "fipscode": 36005,
+    "county_name": "Bronx County, NY",
+    "combined_total_pmt_amt": 585171.97
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 36,
+    "fipscode": 36007,
+    "county_name": "Broome County, NY",
+    "combined_total_pmt_amt": 632.01
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 36,
+    "fipscode": 36061,
+    "county_name": "New York County, NY",
+    "combined_total_pmt_amt": 28254961.87
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 36,
+    "fipscode": 36067,
+    "county_name": "Onondaga County, NY",
+    "combined_total_pmt_amt": 417550.71
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 36,
+    "fipscode": 36091,
+    "county_name": "Saratoga County, NY",
+    "combined_total_pmt_amt": 137439.07
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 37,
+    "fipscode": 37027,
+    "county_name": "Caldwell County, NC",
+    "combined_total_pmt_amt": 12187
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 37,
+    "fipscode": 37063,
+    "county_name": "Durham County, NC",
+    "combined_total_pmt_amt": 322901.82
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 37,
+    "fipscode": 37147,
+    "county_name": "Pitt County, NC",
+    "combined_total_pmt_amt": 518.68
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 37,
+    "fipscode": 37157,
+    "county_name": "Rockingham County, NC",
+    "combined_total_pmt_amt": 863.43
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 37,
+    "fipscode": 37191,
+    "county_name": "Wayne County, NC",
+    "combined_total_pmt_amt": 115.58
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39023,
+    "county_name": "Clark County, OH",
+    "combined_total_pmt_amt": 132891
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39165,
+    "county_name": "Warren County, OH",
+    "combined_total_pmt_amt": 12840
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 40,
+    "fipscode": 40017,
+    "county_name": "Canadian County, OK",
+    "combined_total_pmt_amt": 301.7
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 40,
+    "fipscode": 40109,
+    "county_name": "Oklahoma County, OK",
+    "combined_total_pmt_amt": 1449537.57
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 40,
+    "fipscode": 40119,
+    "county_name": "Payne County, OK",
+    "combined_total_pmt_amt": 18780.3
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 40,
+    "fipscode": 40143,
+    "county_name": "Tulsa County, OK",
+    "combined_total_pmt_amt": 21787.2
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 41,
+    "fipscode": 41003,
+    "county_name": "Benton County, OR",
+    "combined_total_pmt_amt": 83982.75
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 41,
+    "fipscode": 41005,
+    "county_name": "Clackamas County, OR",
+    "combined_total_pmt_amt": 58908.3
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 41,
+    "fipscode": 41011,
+    "county_name": "Coos County, OR",
+    "combined_total_pmt_amt": 60725.5
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 41,
+    "fipscode": 41059,
+    "county_name": "Umatilla County, OR",
+    "combined_total_pmt_amt": 10
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42007,
+    "county_name": "Beaver County, PA",
+    "combined_total_pmt_amt": 190
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42009,
+    "county_name": "Bedford County, PA",
+    "combined_total_pmt_amt": 13
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42011,
+    "county_name": "Berks County, PA",
+    "combined_total_pmt_amt": 175907.25
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42027,
+    "county_name": "Centre County, PA",
+    "combined_total_pmt_amt": 2873921.36
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42029,
+    "county_name": "Chester County, PA",
+    "combined_total_pmt_amt": 933980.18
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42075,
+    "county_name": "Lebanon County, PA",
+    "combined_total_pmt_amt": 655
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42089,
+    "county_name": "Monroe County, PA",
+    "combined_total_pmt_amt": 37262.35
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 45,
+    "fipscode": 45077,
+    "county_name": "Pickens County, SC",
+    "combined_total_pmt_amt": 300
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 45,
+    "fipscode": 45083,
+    "county_name": "Spartanburg County, SC",
+    "combined_total_pmt_amt": 12583.92
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 47,
+    "fipscode": 47035,
+    "county_name": "Cumberland County, TN",
+    "combined_total_pmt_amt": 666
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 47,
+    "fipscode": 47065,
+    "county_name": "Hamilton County, TN",
+    "combined_total_pmt_amt": 664
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 47,
+    "fipscode": 47093,
+    "county_name": "Knox County, TN",
+    "combined_total_pmt_amt": 689573.52
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 47,
+    "fipscode": 47165,
+    "county_name": "Sumner County, TN",
+    "combined_total_pmt_amt": 52839.92
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 48,
+    "fipscode": 48041,
+    "county_name": "Brazos County, TX",
+    "combined_total_pmt_amt": 1339393.87
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 48,
+    "fipscode": 48113,
+    "county_name": "Dallas County, TX",
+    "combined_total_pmt_amt": 9321850.52
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 48,
+    "fipscode": 48157,
+    "county_name": "Fort Bend County, TX",
+    "combined_total_pmt_amt": 11549.3
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 48,
+    "fipscode": 48209,
+    "county_name": "Hays County, TX",
+    "combined_total_pmt_amt": 1500
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 48,
+    "fipscode": 48439,
+    "county_name": "Tarrant County, TX",
+    "combined_total_pmt_amt": 53287.31
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 49,
+    "fipscode": 49005,
+    "county_name": "Cache County, UT",
+    "combined_total_pmt_amt": 5345.65
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 49,
+    "fipscode": 49043,
+    "county_name": "Summit County, UT",
+    "combined_total_pmt_amt": 51888.87
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 51,
+    "fipscode": 51013,
+    "county_name": "Arlington County, VA",
+    "combined_total_pmt_amt": 1403230.11
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 51,
+    "fipscode": 51041,
+    "county_name": "Chesterfield County, VA",
+    "combined_total_pmt_amt": 5208
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 51,
+    "fipscode": 51187,
+    "county_name": "Warren County, VA",
+    "combined_total_pmt_amt": 0
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 51,
+    "fipscode": 51760,
+    "county_name": "Richmond city, VA",
+    "combined_total_pmt_amt": 9454.9
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 51,
+    "fipscode": 51775,
+    "county_name": "Salem city, VA",
+    "combined_total_pmt_amt": 75.11
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 51,
+    "fipscode": 51810,
+    "county_name": "Virginia Beach city, VA",
+    "combined_total_pmt_amt": 19076.62
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 53,
+    "fipscode": 53007,
+    "county_name": "Chelan County, WA",
+    "combined_total_pmt_amt": 79.74
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 53,
+    "fipscode": 53033,
+    "county_name": "King County, WA",
+    "combined_total_pmt_amt": 4974982.59
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 53,
+    "fipscode": 53075,
+    "county_name": "Whitman County, WA",
+    "combined_total_pmt_amt": 40
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 45,
+    "fipscode": 45000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 1969751.1
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 49,
+    "fipscode": 49000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 9526744.66
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 51,
+    "fipscode": 51000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 6231997.3
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 54,
+    "fipscode": 54000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 564.9
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 53,
+    "fipscode": 53077,
+    "county_name": "Yakima County, WA",
+    "combined_total_pmt_amt": 13
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 54,
+    "fipscode": 54061,
+    "county_name": "Monongalia County, WV",
+    "combined_total_pmt_amt": 238.4
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 55,
+    "fipscode": 55029,
+    "county_name": "Door County, WI",
+    "combined_total_pmt_amt": 17000
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 55,
+    "fipscode": 55085,
+    "county_name": "Oneida County, WI",
+    "combined_total_pmt_amt": 3585.98
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 55,
+    "fipscode": 55131,
+    "county_name": "Washington County, WI",
+    "combined_total_pmt_amt": 12507.63
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 55,
+    "fipscode": 55139,
+    "county_name": "Winnebago County, WI",
+    "combined_total_pmt_amt": 4000
+  },
+  {
+    "n_s_c": "State",
+    "statecode": "01",
+    "fipscode": "01000",
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 1847955.4
+  },
+  {
+    "n_s_c": "State",
+    "statecode": "04",
+    "fipscode": "04000",
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 1913283.46
+  },
+  {
+    "n_s_c": "State",
+    "statecode": "08",
+    "fipscode": "08000",
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 5032790.22
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 11,
+    "fipscode": 11000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 11463702.88
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 17,
+    "fipscode": 17000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 43840017.03
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 19,
+    "fipscode": 19000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 2784769.1
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 27,
+    "fipscode": 27000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 14384343.47
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 31,
+    "fipscode": 31000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 506476.52
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 37,
+    "fipscode": 37000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 6877043.4
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 42,
+    "fipscode": 42000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 82049157.24
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 56,
+    "fipscode": 56000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 96707.88
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "02",
+    "fipscode": "02020",
+    "county_name": "Anchorage Municipality, AK",
+    "combined_total_pmt_amt": 19477.38
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "04",
+    "fipscode": "04005",
+    "county_name": "Coconino County, AZ",
+    "combined_total_pmt_amt": 250
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "04",
+    "fipscode": "04019",
+    "county_name": "Pima County, AZ",
+    "combined_total_pmt_amt": 293994.42
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06001",
+    "county_name": "Alameda County, CA",
+    "combined_total_pmt_amt": 3745313.21
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06019",
+    "county_name": "Fresno County, CA",
+    "combined_total_pmt_amt": 30000
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06059",
+    "county_name": "Orange County, CA",
+    "combined_total_pmt_amt": 19204273.98
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06061",
+    "county_name": "Placer County, CA",
+    "combined_total_pmt_amt": 195544.58
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06067",
+    "county_name": "Sacramento County, CA",
+    "combined_total_pmt_amt": 660006.57
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06073",
+    "county_name": "San Diego County, CA",
+    "combined_total_pmt_amt": 24963122.48
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06083",
+    "county_name": "Santa Barbara County, CA",
+    "combined_total_pmt_amt": 682493.01
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06085",
+    "county_name": "Santa Clara County, CA",
+    "combined_total_pmt_amt": 22520950.5
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06087",
+    "county_name": "Santa Cruz County, CA",
+    "combined_total_pmt_amt": 1007916.19
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06095",
+    "county_name": "Solano County, CA",
+    "combined_total_pmt_amt": 52634
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06097",
+    "county_name": "Sonoma County, CA",
+    "combined_total_pmt_amt": 53840.2
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06111",
+    "county_name": "Ventura County, CA",
+    "combined_total_pmt_amt": 1180304.98
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06113",
+    "county_name": "Yolo County, CA",
+    "combined_total_pmt_amt": 2736595.47
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "08",
+    "fipscode": "08013",
+    "county_name": "Boulder County, CO",
+    "combined_total_pmt_amt": 1485798.25
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "08",
+    "fipscode": "08035",
+    "county_name": "Douglas County, CO",
+    "combined_total_pmt_amt": 47177.81
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 10,
+    "fipscode": 10003,
+    "county_name": "New Castle County, DE",
+    "combined_total_pmt_amt": 3181259.96
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 12,
+    "fipscode": 12001,
+    "county_name": "Alachua County, FL",
+    "combined_total_pmt_amt": 129752.45
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 12,
+    "fipscode": 12011,
+    "county_name": "Broward County, FL",
+    "combined_total_pmt_amt": 1456213.63
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 12,
+    "fipscode": 12053,
+    "county_name": "Hernando County, FL",
+    "combined_total_pmt_amt": 110.71
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 12,
+    "fipscode": 12071,
+    "county_name": "Lee County, FL",
+    "combined_total_pmt_amt": 16152
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 12,
+    "fipscode": 12085,
+    "county_name": "Martin County, FL",
+    "combined_total_pmt_amt": 88052.16
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 12,
+    "fipscode": 12103,
+    "county_name": "Pinellas County, FL",
+    "combined_total_pmt_amt": 231577.19
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 13,
+    "fipscode": 13051,
+    "county_name": "Chatham County, GA",
+    "combined_total_pmt_amt": 160
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 13,
+    "fipscode": 13095,
+    "county_name": "Dougherty County, GA",
+    "combined_total_pmt_amt": 100
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 17,
+    "fipscode": 17031,
+    "county_name": "Cook County, IL",
+    "combined_total_pmt_amt": 33360770.48
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 17,
+    "fipscode": 17089,
+    "county_name": "Kane County, IL",
+    "combined_total_pmt_amt": 573953.76
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 17,
+    "fipscode": 17111,
+    "county_name": "McHenry County, IL",
+    "combined_total_pmt_amt": 3093847.66
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 17,
+    "fipscode": 17113,
+    "county_name": "McLean County, IL",
+    "combined_total_pmt_amt": 33550
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 17,
+    "fipscode": 17115,
+    "county_name": "Macon County, IL",
+    "combined_total_pmt_amt": 342.82
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 17,
+    "fipscode": 17183,
+    "county_name": "Vermilion County, IL",
+    "combined_total_pmt_amt": 100.19
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 18,
+    "fipscode": 18003,
+    "county_name": "Allen County, IN",
+    "combined_total_pmt_amt": 3930727.21
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 18,
+    "fipscode": 18057,
+    "county_name": "Hamilton County, IN",
+    "combined_total_pmt_amt": 121511.19
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 18,
+    "fipscode": 18063,
+    "county_name": "Hendricks County, IN",
+    "combined_total_pmt_amt": 3362.5
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 18,
+    "fipscode": 18093,
+    "county_name": "Lawrence County, IN",
+    "combined_total_pmt_amt": 4
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 18,
+    "fipscode": 18097,
+    "county_name": "Marion County, IN",
+    "combined_total_pmt_amt": 3128883.58
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 18,
+    "fipscode": 18127,
+    "county_name": "Porter County, IN",
+    "combined_total_pmt_amt": 10725.45
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 19,
+    "fipscode": 19097,
+    "county_name": "Jackson County, IA",
+    "combined_total_pmt_amt": 19
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 19,
+    "fipscode": 19169,
+    "county_name": "Story County, IA",
+    "combined_total_pmt_amt": 812
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 21,
+    "fipscode": 21067,
+    "county_name": "Fayette County, KY",
+    "combined_total_pmt_amt": 80894.53
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 22,
+    "fipscode": 22017,
+    "county_name": "Caddo Parish, LA",
+    "combined_total_pmt_amt": 95304.67
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 22,
+    "fipscode": 22033,
+    "county_name": "East Baton Rouge Parish, LA",
+    "combined_total_pmt_amt": 10278.28
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 24,
+    "fipscode": 24021,
+    "county_name": "Frederick County, MD",
+    "combined_total_pmt_amt": 3645348.42
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 24,
+    "fipscode": 24025,
+    "county_name": "Harford County, MD",
+    "combined_total_pmt_amt": 2437.5
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 24,
+    "fipscode": 24033,
+    "county_name": "Prince George's County, MD",
+    "combined_total_pmt_amt": 2011698.85
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 24,
+    "fipscode": 24043,
+    "county_name": "Washington County, MD",
+    "combined_total_pmt_amt": 6949.78
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26011,
+    "county_name": "Arenac County, MI",
+    "combined_total_pmt_amt": 1000
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26017,
+    "county_name": "Bay County, MI",
+    "combined_total_pmt_amt": 5090
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26041,
+    "county_name": "Delta County, MI",
+    "combined_total_pmt_amt": 68.4
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26045,
+    "county_name": "Eaton County, MI",
+    "combined_total_pmt_amt": 39648.19
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26049,
+    "county_name": "Genesee County, MI",
+    "combined_total_pmt_amt": 4475362.96
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26055,
+    "county_name": "Grand Traverse County, MI",
+    "combined_total_pmt_amt": 102715.32
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26057,
+    "county_name": "Gratiot County, MI",
+    "combined_total_pmt_amt": 570
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26067,
+    "county_name": "Ionia County, MI",
+    "combined_total_pmt_amt": 100
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26093,
+    "county_name": "Livingston County, MI",
+    "combined_total_pmt_amt": 990928.67
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26109,
+    "county_name": "Menominee County, MI",
+    "combined_total_pmt_amt": 671.58
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26121,
+    "county_name": "Muskegon County, MI",
+    "combined_total_pmt_amt": 107356.84
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26139,
+    "county_name": "Ottawa County, MI",
+    "combined_total_pmt_amt": 147507.89
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26145,
+    "county_name": "Saginaw County, MI",
+    "combined_total_pmt_amt": 369257.38
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 27,
+    "fipscode": 27003,
+    "county_name": "Anoka County, MN",
+    "combined_total_pmt_amt": 27439
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 27,
+    "fipscode": 27139,
+    "county_name": "Scott County, MN",
+    "combined_total_pmt_amt": 2168.5
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 28,
+    "fipscode": 28045,
+    "county_name": "Hancock County, MS",
+    "combined_total_pmt_amt": 1479.26
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 30,
+    "fipscode": 30013,
+    "county_name": "Cascade County, MT",
+    "combined_total_pmt_amt": 6000
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 31,
+    "fipscode": 31109,
+    "county_name": "Lancaster County, NE",
+    "combined_total_pmt_amt": 360281.19
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 31,
+    "fipscode": 31153,
+    "county_name": "Sarpy County, NE",
+    "combined_total_pmt_amt": 1658.1
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 35,
+    "fipscode": 35013,
+    "county_name": "Dona Ana County, NM",
+    "combined_total_pmt_amt": 1520
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 36,
+    "fipscode": 36021,
+    "county_name": "Columbia County, NY",
+    "combined_total_pmt_amt": 95907
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 36,
+    "fipscode": 36047,
+    "county_name": "Kings County, NY",
+    "combined_total_pmt_amt": 1542163.23
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 36,
+    "fipscode": 36055,
+    "county_name": "Monroe County, NY",
+    "combined_total_pmt_amt": 1496291.03
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 36,
+    "fipscode": 36059,
+    "county_name": "Nassau County, NY",
+    "combined_total_pmt_amt": 2339184.81
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 36,
+    "fipscode": 36063,
+    "county_name": "Niagara County, NY",
+    "combined_total_pmt_amt": 43756.13
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 36,
+    "fipscode": 36065,
+    "county_name": "Oneida County, NY",
+    "combined_total_pmt_amt": 57304.05
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 36,
+    "fipscode": 36069,
+    "county_name": "Ontario County, NY",
+    "combined_total_pmt_amt": 33400.32
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 36,
+    "fipscode": 36087,
+    "county_name": "Rockland County, NY",
+    "combined_total_pmt_amt": 28004.25
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 36,
+    "fipscode": 36103,
+    "county_name": "Suffolk County, NY",
+    "combined_total_pmt_amt": 1115756.85
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 37,
+    "fipscode": 37025,
+    "county_name": "Cabarrus County, NC",
+    "combined_total_pmt_amt": 500
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 37,
+    "fipscode": 37035,
+    "county_name": "Catawba County, NC",
+    "combined_total_pmt_amt": 4896
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 37,
+    "fipscode": 37097,
+    "county_name": "Iredell County, NC",
+    "combined_total_pmt_amt": 7864
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 38,
+    "fipscode": 38015,
+    "county_name": "Burleigh County, ND",
+    "combined_total_pmt_amt": 5640
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 38,
+    "fipscode": 38089,
+    "county_name": "Stark County, ND",
+    "combined_total_pmt_amt": 5490
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39003,
+    "county_name": "Allen County, OH",
+    "combined_total_pmt_amt": 33478.94
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39007,
+    "county_name": "Ashtabula County, OH",
+    "combined_total_pmt_amt": 0
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39041,
+    "county_name": "Delaware County, OH",
+    "combined_total_pmt_amt": 4666.61
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39049,
+    "county_name": "Franklin County, OH",
+    "combined_total_pmt_amt": 10411277.32
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39061,
+    "county_name": "Hamilton County, OH",
+    "combined_total_pmt_amt": 1528846
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39123,
+    "county_name": "Ottawa County, OH",
+    "combined_total_pmt_amt": 153.89
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39151,
+    "county_name": "Stark County, OH",
+    "combined_total_pmt_amt": 140766.63
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 41,
+    "fipscode": 41017,
+    "county_name": "Deschutes County, OR",
+    "combined_total_pmt_amt": 86632.34
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 41,
+    "fipscode": 41029,
+    "county_name": "Jackson County, OR",
+    "combined_total_pmt_amt": 18087.51
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 41,
+    "fipscode": 41043,
+    "county_name": "Linn County, OR",
+    "combined_total_pmt_amt": 1291.01
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42003,
+    "county_name": "Allegheny County, PA",
+    "combined_total_pmt_amt": 62573497.09
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42037,
+    "county_name": "Columbia County, PA",
+    "combined_total_pmt_amt": 47798.18
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42041,
+    "county_name": "Cumberland County, PA",
+    "combined_total_pmt_amt": 11
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42049,
+    "county_name": "Erie County, PA",
+    "combined_total_pmt_amt": 5015.35
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42063,
+    "county_name": "Indiana County, PA",
+    "combined_total_pmt_amt": 20348.79
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42095,
+    "county_name": "Northampton County, PA",
+    "combined_total_pmt_amt": 65083.4
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 45,
+    "fipscode": 45035,
+    "county_name": "Dorchester County, SC",
+    "combined_total_pmt_amt": 10
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 47,
+    "fipscode": 47001,
+    "county_name": "Anderson County, TN",
+    "combined_total_pmt_amt": 127651.52
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 47,
+    "fipscode": 47037,
+    "county_name": "Davidson County, TN",
+    "combined_total_pmt_amt": 3074933.66
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 48,
+    "fipscode": 48027,
+    "county_name": "Bell County, TX",
+    "combined_total_pmt_amt": 300
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 48,
+    "fipscode": 48039,
+    "county_name": "Brazoria County, TX",
+    "combined_total_pmt_amt": 209.5
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 48,
+    "fipscode": 48201,
+    "county_name": "Harris County, TX",
+    "combined_total_pmt_amt": 4065589.64
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 48,
+    "fipscode": 48453,
+    "county_name": "Travis County, TX",
+    "combined_total_pmt_amt": 512925.06
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 48,
+    "fipscode": 48491,
+    "county_name": "Williamson County, TX",
+    "combined_total_pmt_amt": 1537187.75
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 51,
+    "fipscode": 51157,
+    "county_name": "Rappahannock County, VA",
+    "combined_total_pmt_amt": 7993
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 51,
+    "fipscode": 51650,
+    "county_name": "Hampton city, VA",
+    "combined_total_pmt_amt": 747.5
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 51,
+    "fipscode": 51710,
+    "county_name": "Norfolk city, VA",
+    "combined_total_pmt_amt": 142238.62
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 53,
+    "fipscode": 53057,
+    "county_name": "Skagit County, WA",
+    "combined_total_pmt_amt": 36950
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 55,
+    "fipscode": 55025,
+    "county_name": "Dane County, WI",
+    "combined_total_pmt_amt": 3548618.08
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 55,
+    "fipscode": 55079,
+    "county_name": "Milwaukee County, WI",
+    "combined_total_pmt_amt": 3214125.16
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 55,
+    "fipscode": 55095,
+    "county_name": "Polk County, WI",
+    "combined_total_pmt_amt": 1678.89
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 55,
+    "fipscode": 55111,
+    "county_name": "Sauk County, WI",
+    "combined_total_pmt_amt": 11113.36
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 56,
+    "fipscode": 56039,
+    "county_name": "Teton County, WY",
+    "combined_total_pmt_amt": 96707.88
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 12,
+    "fipscode": 12000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 9026746.14
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 15,
+    "fipscode": 15000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 1303207.25
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 16,
+    "fipscode": 16000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 516495.2
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 28,
+    "fipscode": 28000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 942949.54
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 30,
+    "fipscode": 30000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 159292.32
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 36,
+    "fipscode": 36000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 39102165.23
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 38,
+    "fipscode": 38000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 33964.8
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 39,
+    "fipscode": 39000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 18939700.92
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 41,
+    "fipscode": 41000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 3328484.42
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 47,
+    "fipscode": 47000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 4791105.56
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 48,
+    "fipscode": 48000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 19209745.25
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 55,
+    "fipscode": 55000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 6894750.95
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "01",
+    "fipscode": "01015",
+    "county_name": "Calhoun County, AL",
+    "combined_total_pmt_amt": 121850.5
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "01",
+    "fipscode": "01101",
+    "county_name": "Montgomery County, AL",
+    "combined_total_pmt_amt": 3491.7
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "01",
+    "fipscode": "01103",
+    "county_name": "Morgan County, AL",
+    "combined_total_pmt_amt": 32140
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "01",
+    "fipscode": "01117",
+    "county_name": "Shelby County, AL",
+    "combined_total_pmt_amt": 247.5
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "05",
+    "fipscode": "05131",
+    "county_name": "Sebastian County, AR",
+    "combined_total_pmt_amt": 350
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06013",
+    "county_name": "Contra Costa County, CA",
+    "combined_total_pmt_amt": 2197951.51
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06017",
+    "county_name": "El Dorado County, CA",
+    "combined_total_pmt_amt": 5617.68
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06077",
+    "county_name": "San Joaquin County, CA",
+    "combined_total_pmt_amt": 39065
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "06",
+    "fipscode": "06079",
+    "county_name": "San Luis Obispo County, CA",
+    "combined_total_pmt_amt": 200842.38
+  },
+  {
+    "n_s_c": "County",
+    "statecode": "08",
+    "fipscode": "08005",
+    "county_name": "Arapahoe County, CO",
+    "combined_total_pmt_amt": 79892.01
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 12,
+    "fipscode": 12021,
+    "county_name": "Collier County, FL",
+    "combined_total_pmt_amt": 725
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 12,
+    "fipscode": 12086,
+    "county_name": "Miami-Dade County, FL",
+    "combined_total_pmt_amt": 3920216.86
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 12,
+    "fipscode": 12127,
+    "county_name": "Volusia County, FL",
+    "combined_total_pmt_amt": 15997
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 13,
+    "fipscode": 13021,
+    "county_name": "Bibb County, GA",
+    "combined_total_pmt_amt": 1000
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 13,
+    "fipscode": 13057,
+    "county_name": "Cherokee County, GA",
+    "combined_total_pmt_amt": 1662.48
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 13,
+    "fipscode": 13059,
+    "county_name": "Clarke County, GA",
+    "combined_total_pmt_amt": 24737.29
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 13,
+    "fipscode": 13067,
+    "county_name": "Cobb County, GA",
+    "combined_total_pmt_amt": 13108.49
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 13,
+    "fipscode": 13135,
+    "county_name": "Gwinnett County, GA",
+    "combined_total_pmt_amt": 127292.01
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 13,
+    "fipscode": 13245,
+    "county_name": "Richmond County, GA",
+    "combined_total_pmt_amt": 671582.25
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 15,
+    "fipscode": 15003,
+    "county_name": "Honolulu County, HI",
+    "combined_total_pmt_amt": 1303207.25
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 16,
+    "fipscode": 16001,
+    "county_name": "Ada County, ID",
+    "combined_total_pmt_amt": 508187.33
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 16,
+    "fipscode": 16019,
+    "county_name": "Bonneville County, ID",
+    "combined_total_pmt_amt": 249.24
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 17,
+    "fipscode": 17001,
+    "county_name": "Adams County, IL",
+    "combined_total_pmt_amt": 13410
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 18,
+    "fipscode": 18105,
+    "county_name": "Monroe County, IN",
+    "combined_total_pmt_amt": 16788.68
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 18,
+    "fipscode": 18141,
+    "county_name": "St. Joseph County, IN",
+    "combined_total_pmt_amt": 445449.39
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 19,
+    "fipscode": 19155,
+    "county_name": "Pottawattamie County, IA",
+    "combined_total_pmt_amt": 49.5
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 20,
+    "fipscode": 20045,
+    "county_name": "Douglas County, KS",
+    "combined_total_pmt_amt": 897.1
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 20,
+    "fipscode": 20091,
+    "county_name": "Johnson County, KS",
+    "combined_total_pmt_amt": 2897930.45
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 20,
+    "fipscode": 20209,
+    "county_name": "Wyandotte County, KS",
+    "combined_total_pmt_amt": 5798.4
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 21,
+    "fipscode": 21117,
+    "county_name": "Kenton County, KY",
+    "combined_total_pmt_amt": 3026.1
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 22,
+    "fipscode": 22061,
+    "county_name": "Lincoln Parish, LA",
+    "combined_total_pmt_amt": 468.2
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 24,
+    "fipscode": 24029,
+    "county_name": "Kent County, MD",
+    "combined_total_pmt_amt": 288.75
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26007,
+    "county_name": "Alpena County, MI",
+    "combined_total_pmt_amt": 50
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26025,
+    "county_name": "Calhoun County, MI",
+    "combined_total_pmt_amt": 202169.76
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26035,
+    "county_name": "Clare County, MI",
+    "combined_total_pmt_amt": 11.25
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26043,
+    "county_name": "Dickinson County, MI",
+    "combined_total_pmt_amt": 2138.75
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26063,
+    "county_name": "Huron County, MI",
+    "combined_total_pmt_amt": 390
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26075,
+    "county_name": "Jackson County, MI",
+    "combined_total_pmt_amt": 627233.63
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26099,
+    "county_name": "Macomb County, MI",
+    "combined_total_pmt_amt": 2490122.6
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26115,
+    "county_name": "Monroe County, MI",
+    "combined_total_pmt_amt": 88595.59
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26117,
+    "county_name": "Montcalm County, MI",
+    "combined_total_pmt_amt": 150
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26123,
+    "county_name": "Newaygo County, MI",
+    "combined_total_pmt_amt": 10000
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26137,
+    "county_name": "Otsego County, MI",
+    "combined_total_pmt_amt": 310.86
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26149,
+    "county_name": "St. Joseph County, MI",
+    "combined_total_pmt_amt": 100
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26155,
+    "county_name": "Shiawassee County, MI",
+    "combined_total_pmt_amt": 281
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26157,
+    "county_name": "Tuscola County, MI",
+    "combined_total_pmt_amt": 80
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 26,
+    "fipscode": 26163,
+    "county_name": "Wayne County, MI",
+    "combined_total_pmt_amt": 71527372.89
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 27,
+    "fipscode": 27109,
+    "county_name": "Olmsted County, MN",
+    "combined_total_pmt_amt": 4243540.21
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 27,
+    "fipscode": 27137,
+    "county_name": "St. Louis County, MN",
+    "combined_total_pmt_amt": 200
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 27,
+    "fipscode": 27141,
+    "county_name": "Sherburne County, MN",
+    "combined_total_pmt_amt": 1076.32
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 27,
+    "fipscode": 27163,
+    "county_name": "Washington County, MN",
+    "combined_total_pmt_amt": 4741.79
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 28,
+    "fipscode": 28049,
+    "county_name": "Hinds County, MS",
+    "combined_total_pmt_amt": 935270.28
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 29,
+    "fipscode": 29095,
+    "county_name": "Jackson County, MO",
+    "combined_total_pmt_amt": 299572.99
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 32,
+    "fipscode": 32007,
+    "county_name": "Elko County, NV",
+    "combined_total_pmt_amt": 160
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 32,
+    "fipscode": 32031,
+    "county_name": "Washoe County, NV",
+    "combined_total_pmt_amt": 3517
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 36,
+    "fipscode": 36001,
+    "county_name": "Albany County, NY",
+    "combined_total_pmt_amt": 218650.78
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 36,
+    "fipscode": 36029,
+    "county_name": "Erie County, NY",
+    "combined_total_pmt_amt": 1999033.45
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 36,
+    "fipscode": 36083,
+    "county_name": "Rensselaer County, NY",
+    "combined_total_pmt_amt": 16886.85
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 37,
+    "fipscode": 37001,
+    "county_name": "Alamance County, NC",
+    "combined_total_pmt_amt": 4354.62
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 37,
+    "fipscode": 37129,
+    "county_name": "New Hanover County, NC",
+    "combined_total_pmt_amt": 373159.21
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 37,
+    "fipscode": 37179,
+    "county_name": "Union County, NC",
+    "combined_total_pmt_amt": 43347.94
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 37,
+    "fipscode": 37183,
+    "county_name": "Wake County, NC",
+    "combined_total_pmt_amt": 822936.87
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 38,
+    "fipscode": 38017,
+    "county_name": "Cass County, ND",
+    "combined_total_pmt_amt": 22834.8
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39043,
+    "county_name": "Erie County, OH",
+    "combined_total_pmt_amt": 10410.96
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39055,
+    "county_name": "Geauga County, OH",
+    "combined_total_pmt_amt": 31863.39
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39063,
+    "county_name": "Hancock County, OH",
+    "combined_total_pmt_amt": 30
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39085,
+    "county_name": "Lake County, OH",
+    "combined_total_pmt_amt": 8614.74
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39095,
+    "county_name": "Lucas County, OH",
+    "combined_total_pmt_amt": 408084.06
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39099,
+    "county_name": "Mahoning County, OH",
+    "combined_total_pmt_amt": 6689.88
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39103,
+    "county_name": "Medina County, OH",
+    "combined_total_pmt_amt": 282
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39133,
+    "county_name": "Portage County, OH",
+    "combined_total_pmt_amt": 266510.96
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39153,
+    "county_name": "Summit County, OH",
+    "combined_total_pmt_amt": 248014.08
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 39,
+    "fipscode": 39169,
+    "county_name": "Wayne County, OH",
+    "combined_total_pmt_amt": 14500
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 40,
+    "fipscode": 40031,
+    "county_name": "Comanche County, OK",
+    "combined_total_pmt_amt": 1000
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 40,
+    "fipscode": 40071,
+    "county_name": "Kay County, OK",
+    "combined_total_pmt_amt": 50
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 41,
+    "fipscode": 41039,
+    "county_name": "Lane County, OR",
+    "combined_total_pmt_amt": 148557.89
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 41,
+    "fipscode": 41047,
+    "county_name": "Marion County, OR",
+    "combined_total_pmt_amt": 165737.5
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 41,
+    "fipscode": 41067,
+    "county_name": "Washington County, OR",
+    "combined_total_pmt_amt": 416450.4
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42017,
+    "county_name": "Bucks County, PA",
+    "combined_total_pmt_amt": 334729.33
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42019,
+    "county_name": "Butler County, PA",
+    "combined_total_pmt_amt": 4000.49
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42043,
+    "county_name": "Dauphin County, PA",
+    "combined_total_pmt_amt": 4213197.77
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42071,
+    "county_name": "Lancaster County, PA",
+    "combined_total_pmt_amt": 22039.44
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42077,
+    "county_name": "Lehigh County, PA",
+    "combined_total_pmt_amt": 38963.4
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42079,
+    "county_name": "Luzerne County, PA",
+    "combined_total_pmt_amt": 742.06
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42081,
+    "county_name": "Lycoming County, PA",
+    "combined_total_pmt_amt": 165
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42101,
+    "county_name": "Philadelphia County, PA",
+    "combined_total_pmt_amt": 8696304.95
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 42,
+    "fipscode": 42133,
+    "county_name": "York County, PA",
+    "combined_total_pmt_amt": 22462.67
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 45,
+    "fipscode": 45045,
+    "county_name": "Greenville County, SC",
+    "combined_total_pmt_amt": 48721
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 45,
+    "fipscode": 45079,
+    "county_name": "Richland County, SC",
+    "combined_total_pmt_amt": 553682.19
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 47,
+    "fipscode": 47187,
+    "county_name": "Williamson County, TN",
+    "combined_total_pmt_amt": 155506.41
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 48,
+    "fipscode": 48029,
+    "county_name": "Bexar County, TX",
+    "combined_total_pmt_amt": 1693266.43
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 48,
+    "fipscode": 48141,
+    "county_name": "El Paso County, TX",
+    "combined_total_pmt_amt": 31010
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 48,
+    "fipscode": 48167,
+    "county_name": "Galveston County, TX",
+    "combined_total_pmt_amt": 55251.85
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 48,
+    "fipscode": 48303,
+    "county_name": "Lubbock County, TX",
+    "combined_total_pmt_amt": 55430
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 49,
+    "fipscode": 49035,
+    "county_name": "Salt Lake County, UT",
+    "combined_total_pmt_amt": 7528981.15
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 49,
+    "fipscode": 49049,
+    "county_name": "Utah County, UT",
+    "combined_total_pmt_amt": 1939901.56
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 51,
+    "fipscode": 51107,
+    "county_name": "Loudoun County, VA",
+    "combined_total_pmt_amt": 54956.45
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 51,
+    "fipscode": 51179,
+    "county_name": "Stafford County, VA",
+    "combined_total_pmt_amt": 180
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 51,
+    "fipscode": 51199,
+    "county_name": "York County, VA",
+    "combined_total_pmt_amt": 4646.8
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 51,
+    "fipscode": 51510,
+    "county_name": "Alexandria city, VA",
+    "combined_total_pmt_amt": 1982842.74
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 53,
+    "fipscode": 53011,
+    "county_name": "Clark County, WA",
+    "combined_total_pmt_amt": 75429.95
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 53,
+    "fipscode": 53053,
+    "county_name": "Pierce County, WA",
+    "combined_total_pmt_amt": 11500
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 53,
+    "fipscode": 53073,
+    "county_name": "Whatcom County, WA",
+    "combined_total_pmt_amt": 377.04
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 54,
+    "fipscode": 54107,
+    "county_name": "Wood County, WV",
+    "combined_total_pmt_amt": 326.5
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 55,
+    "fipscode": 55007,
+    "county_name": "Bayfield County, WI",
+    "combined_total_pmt_amt": 5000
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 55,
+    "fipscode": 55009,
+    "county_name": "Brown County, WI",
+    "combined_total_pmt_amt": 4000
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 55,
+    "fipscode": 55059,
+    "county_name": "Kenosha County, WI",
+    "combined_total_pmt_amt": 1432.37
+  },
+  {
+    "n_s_c": "County",
+    "statecode": 55,
+    "fipscode": 55071,
+    "county_name": "Manitowoc County, WI",
+    "combined_total_pmt_amt": 13.23
+  },
+  {
+    "n_s_c": "State",
+    "statecode": "02",
+    "fipscode": "02000",
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 19627.38
+  },
+  {
+    "n_s_c": "State",
+    "statecode": "05",
+    "fipscode": "05000",
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 1199878.48
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 18,
+    "fipscode": 18000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 7805974.48
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 20,
+    "fipscode": 20000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 3003287.93
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 21,
+    "fipscode": 21000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 2076030.17
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 26,
+    "fipscode": 26000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 402781298.61
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 29,
+    "fipscode": 29000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 9491067.23
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 32,
+    "fipscode": 32000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 55631.44
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 35,
+    "fipscode": 35000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 1074744.76
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 46,
+    "fipscode": 46000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 5993.11
+  },
+  {
+    "n_s_c": "State",
+    "statecode": 53,
+    "fipscode": 53000,
+    "county_name": "NULL",
+    "combined_total_pmt_amt": 5638616.81
+  }
+]

@@ -1,32 +1,94 @@
 .App {
+  width: 80%;
+  margin: 0 auto;
+}
+.bubbles :hover circle {
+  stroke: #000;
+}
+.selector-container {
   text-align: center;
+  padding-bottom: 20px;
+}
+.selector-container.lq {
+  padding-bottom: 0;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
+.selector {
+  width: 250px;
+  display: inline-block;
+  text-align: left;
+}
+.selector-label {
+  display: inline-block;
+  margin-right: 10px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.spending-map circle {
+  fill: none;
+  /*set pointer events to none so hover events on circle won't fire*/
+  pointer-events: none;
+  stroke: #000;
 }
 
-.App-link {
-  color: #61dafb;
+.spending-map text {
+  text-anchor: middle;
+  /*set pointer events to none so hover events on circle won't fire*/
+  pointer-events: none;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.spending-map path {
+  fill: none;
+  /*stroke:green;*/
+  pointer-events: all;
+  cursor: pointer;
+}
+
+.spending-map stroke {
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+
+.rewind-container {
+  padding: 10px 0;
+}
+.text-container {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.text-content {
+  text-align: justify;
+}
+.dynamic-text {
+  font-weight: bold;
+}
+.spending-map-button {
+  margin-top: 14px;
+}
+
+.map-tooltip {
+  position: absolute;
+  padding: 5px;
+  background-color: rgba(255, 255, 255, 0.95);
+  border: 1px solid lightgray;
+  pointer-events: none;
+}
+
+.flower {
+  isolation: isolate;
+}
+.flower path {
+  mix-blend-mode: multiply;
+  /*pointer-events:none;*/
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+  font: 10px sans-serif;
 }
